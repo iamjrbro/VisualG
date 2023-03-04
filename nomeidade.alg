@@ -13,3 +13,9 @@ escreva ("Prezado usúario, informe a idade:")
 leia (idade)
 
 escreva ("Seu nome é", " ", nome, " ", "e você tem", idade, " ", "anos.")
+
+
+
+
+// Seção de Comandos
+fimalgoritmo
